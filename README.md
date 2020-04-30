@@ -1,5 +1,3 @@
-# HiddenEye-Best-Phishing-tool-in-world
-
 <p align="left">
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
@@ -136,6 +134,7 @@ git clone -b Termux-Support-Branch https://gitlab.com/an0nud4y/HiddenEye.git
 </p>
 
 The use of the HiddenEye is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
+
 
 
 
